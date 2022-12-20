@@ -1,0 +1,12 @@
+﻿  Vector.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба7\Vector\Vector\Vector.cpp(54,36): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба7\Vector\Vector\Vector.cpp(61,27): warning C4305: аргумент: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  Vector.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба7\Vector\x64\Debug\Vector.exe
